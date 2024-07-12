@@ -142,6 +142,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a657c4a5066ca7377773b260271e5ea29" id="r_a657c4a5066ca7377773b260271e5ea29"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a657c4a5066ca7377773b260271e5ea29">add_parameter</a> (const std::vector&lt; double &gt; &amp;times, const std::vector&lt; double &gt; &amp;values, bool periodic=true)</td></tr>
 <tr class="memdesc:a657c4a5066ca7377773b260271e5ea29"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add a time-dependent model parameter.  <br /></td></tr>
 <tr class="separator:a657c4a5066ca7377773b260271e5ea29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab37e19ab9d45884b8c275d18dea588f2" id="r_ab37e19ab9d45884b8c275d18dea588f2"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ab37e19ab9d45884b8c275d18dea588f2">add_parameter</a> (const std::string expression_string)</td></tr>
+<tr class="memdesc:ab37e19ab9d45884b8c275d18dea588f2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add a time-dependent model parameter defined by a function.  <br /></td></tr>
+<tr class="separator:ab37e19ab9d45884b8c275d18dea588f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af73b0937d32dfbf085d7f74fe02e55b9" id="r_af73b0937d32dfbf085d7f74fe02e55b9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_parameter.html">Parameter</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#af73b0937d32dfbf085d7f74fe02e55b9">get_parameter</a> (int param_id)</td></tr>
 <tr class="memdesc:af73b0937d32dfbf085d7f74fe02e55b9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a parameter by its global ID.  <br /></td></tr>
 <tr class="separator:af73b0937d32dfbf085d7f74fe02e55b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -372,8 +375,34 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="ab37e19ab9d45884b8c275d18dea588f2" name="ab37e19ab9d45884b8c275d18dea588f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab37e19ab9d45884b8c275d18dea588f2">&#9670;&#160;</a></span>add_parameter() <span class="overload">[1/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Model::add_parameter </td>
+          <td>(</td>
+          <td class="paramtype">const std::string</td>          <td class="paramname"><span class="paramname"><em>expression_string</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Add a time-dependent model parameter defined by a function. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">expression_string</td><td>String with function to determine value </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>int Global ID of the parameter </dd></dl>
+
+</div>
+</div>
 <a id="a657c4a5066ca7377773b260271e5ea29" name="a657c4a5066ca7377773b260271e5ea29"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a657c4a5066ca7377773b260271e5ea29">&#9670;&#160;</a></span>add_parameter() <span class="overload">[1/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a657c4a5066ca7377773b260271e5ea29">&#9670;&#160;</a></span>add_parameter() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -410,7 +439,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="a8ce031238b1407330ce0adca578d1bb7" name="a8ce031238b1407330ce0adca578d1bb7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ce031238b1407330ce0adca578d1bb7">&#9670;&#160;</a></span>add_parameter() <span class="overload">[2/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ce031238b1407330ce0adca578d1bb7">&#9670;&#160;</a></span>add_parameter() <span class="overload">[3/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">

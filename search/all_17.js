@@ -43,6 +43,7 @@ var searchData=
   ['svzerodsolver_20from_20other_20programs_40',['Run svZeroDSolver from other programs',['../index.html#autotoc_md72',1,'']]],
   ['svzerodsolver_20from_20the_20command_20line_41',['Run svZeroDSolver from the command line',['../index.html#autotoc_md71',1,'']]],
   ['svzerodsolver_20quick_20user_20guide_42',['svZeroDSolver - Quick User Guide',['../index.html#autotoc_md70',1,'']]],
-  ['system_43',['4. Add the new block to the build system.',['../add_block.html#autotoc_md52',1,'']]],
-  ['system_5fsize_5f_44',['system_size_',['../class_solver_interface.html#aba3d6f042ab2f983101a3f4471fd1a62',1,'SolverInterface']]]
+  ['symbol_5ftable_43',['symbol_table',['../class_parameter.html#a9fa87f81953a1c46e367de87d8dc9bbd',1,'Parameter']]],
+  ['system_44',['4. Add the new block to the build system.',['../add_block.html#autotoc_md52',1,'']]],
+  ['system_5fsize_5f_45',['system_size_',['../class_solver_interface.html#aba3d6f042ab2f983101a3f4471fd1a62',1,'SolverInterface']]]
 ];

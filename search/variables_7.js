@@ -11,7 +11,8 @@ var searchData=
   ['interface_5flist_5f_8',['interface_list_',['../class_solver_interface.html#ac0a4a75b7fac1e1cd1eda4b2226864c4',1,'SolverInterface']]],
   ['is_5farray_9',['is_array',['../struct_input_parameter.html#a23b23e0f27ee3a4556f4154f195e6280',1,'InputParameter']]],
   ['is_5fconstant_10',['is_constant',['../class_parameter.html#ad9b65a1bb5095a9838d052e251f90ebf',1,'Parameter']]],
-  ['is_5fnumber_11',['is_number',['../struct_input_parameter.html#aa8ff4bcbc244608a53a21c74ee0ec39c',1,'InputParameter']]],
-  ['is_5foptional_12',['is_optional',['../struct_input_parameter.html#aebb43b4cd77daade78f5ed431220e1d8',1,'InputParameter']]],
-  ['is_5fperiodic_13',['is_periodic',['../class_parameter.html#ab8f83f1250a623d59c74b225817f2b16',1,'Parameter']]]
+  ['is_5ffunction_11',['is_function',['../class_parameter.html#a26c30f32574995c3778e1263a4bc46b9',1,'Parameter::is_function'],['../struct_input_parameter.html#a937049cd7caa2c9319b43cc5d1b12dfa',1,'InputParameter::is_function']]],
+  ['is_5fnumber_12',['is_number',['../struct_input_parameter.html#aa8ff4bcbc244608a53a21c74ee0ec39c',1,'InputParameter']]],
+  ['is_5foptional_13',['is_optional',['../struct_input_parameter.html#aebb43b4cd77daade78f5ed431220e1d8',1,'InputParameter']]],
+  ['is_5fperiodic_14',['is_periodic',['../class_parameter.html#ab8f83f1250a623d59c74b225817f2b16',1,'Parameter']]]
 ];
