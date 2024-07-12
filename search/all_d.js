@@ -14,7 +14,7 @@ var searchData=
   ['input_5ffile_5fname_5f_11',['input_file_name_',['../class_solver_interface.html#abc71e294a8b44c78e01481726c2fabf5',1,'SolverInterface']]],
   ['input_5fparams_12',['input_params',['../class_block.html#a3005e28a4e947ca92fa4499c5a7f5c8c',1,'Block::input_params'],['../class_junction.html#a7244ba82080ff7f5a1af9ffdd82a263b',1,'Junction::input_params']]],
   ['input_5fparams_5flist_13',['input_params_list',['../class_block.html#a05f1232b81a42e7b0c4d6781deb5bb53',1,'Block']]],
-  ['inputparameter_14',['InputParameter',['../struct_input_parameter.html',1,'InputParameter'],['../struct_input_parameter.html#a21d81c9b26e193d97fc1c100839d07e5',1,'InputParameter::InputParameter()']]],
+  ['inputparameter_14',['InputParameter',['../struct_input_parameter.html',1,'InputParameter'],['../struct_input_parameter.html#a8192e830399ab16439dd2e4c7e4a5d3d',1,'InputParameter::InputParameter()']]],
   ['install_20with_20pip_15',['Install with pip',['../developer_guide.html#autotoc_md55',1,'']]],
   ['installation_16',['Installation',['../index.html#autotoc_md66',1,'']]],
   ['integrator_17',['Integrator',['../class_integrator.html',1,'Integrator'],['../class_integrator.html#ad6e4f6a6409bec36c05ddc6a3fead000',1,'Integrator::Integrator(Model *model, double time_step_size, double rho, double atol, int max_iter)'],['../class_integrator.html#a91fdfba81971dfa13ba22521d11b7c46',1,'Integrator::Integrator()']]],
@@ -24,8 +24,7 @@ var searchData=
   ['interface_5flist_5f_21',['interface_list_',['../class_solver_interface.html#ac0a4a75b7fac1e1cd1eda4b2226864c4',1,'SolverInterface']]],
   ['is_5farray_22',['is_array',['../struct_input_parameter.html#a23b23e0f27ee3a4556f4154f195e6280',1,'InputParameter']]],
   ['is_5fconstant_23',['is_constant',['../class_parameter.html#ad9b65a1bb5095a9838d052e251f90ebf',1,'Parameter']]],
-  ['is_5ffunction_24',['is_function',['../class_parameter.html#a26c30f32574995c3778e1263a4bc46b9',1,'Parameter::is_function'],['../struct_input_parameter.html#a937049cd7caa2c9319b43cc5d1b12dfa',1,'InputParameter::is_function']]],
-  ['is_5fnumber_25',['is_number',['../struct_input_parameter.html#aa8ff4bcbc244608a53a21c74ee0ec39c',1,'InputParameter']]],
-  ['is_5foptional_26',['is_optional',['../struct_input_parameter.html#aebb43b4cd77daade78f5ed431220e1d8',1,'InputParameter']]],
-  ['is_5fperiodic_27',['is_periodic',['../class_parameter.html#ab8f83f1250a623d59c74b225817f2b16',1,'Parameter']]]
+  ['is_5fnumber_24',['is_number',['../struct_input_parameter.html#aa8ff4bcbc244608a53a21c74ee0ec39c',1,'InputParameter']]],
+  ['is_5foptional_25',['is_optional',['../struct_input_parameter.html#aebb43b4cd77daade78f5ed431220e1d8',1,'InputParameter']]],
+  ['is_5fperiodic_26',['is_periodic',['../class_parameter.html#ab8f83f1250a623d59c74b225817f2b16',1,'Parameter']]]
 ];

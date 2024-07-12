@@ -8,7 +8,5 @@ var searchData=
   ['equations_20for_20the_20block_5',['equations for the block',['../add_block.html#autotoc_md46',1,'3. Set up the governing equations for the block.'],['../add_block.html#autotoc_md50',1,'4. Implement the matrix equations for the block.']]],
   ['erv_5fs_6',['ERV_S',['../class_closed_loop_heart_pulmonary.html#a9b07dd66cda94886387707319b2d1834ade6493b2555cd0d05591b4138c558c56',1,'ClosedLoopHeartPulmonary']]],
   ['example_7',['An example',['../add_block.html#autotoc_md49',1,'']]],
-  ['expression_8',['expression',['../class_parameter.html#ac82048e7c479d6e36d2be80520e93b41',1,'Parameter']]],
-  ['expression_5fstring_9',['expression_string',['../class_parameter.html#afdefe9ec64e0dd04ad64ba8ee235c110',1,'Parameter']]],
-  ['external_5fstep_5fsize_5f_10',['external_step_size_',['../class_solver_interface.html#a20dc4a36f4a612e5fb29240f3cf8ffc2',1,'SolverInterface']]]
+  ['external_5fstep_5fsize_5f_8',['external_step_size_',['../class_solver_interface.html#a20dc4a36f4a612e5fb29240f3cf8ffc2',1,'SolverInterface']]]
 ];
